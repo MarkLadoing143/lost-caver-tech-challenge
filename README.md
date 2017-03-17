@@ -7,7 +7,7 @@ BlueJ Project with Executable Jar file.
 - Download the ZIP to a easily accessible location
 - Unzip the folder and locate the Jar file
 - Open Command Prompt
-- Type 'java -jar *address of the Jar file*' (ex. java -jar /downloads\LostCaverChallenge/LostCaverChallenge.jar)
+- Type 'java -jar *address of the Jar file*' (ex. java -jar /downloads/LostCaverChallenge/LostCaverChallenge.jar)
 
 ## Description
 Assumptions:
