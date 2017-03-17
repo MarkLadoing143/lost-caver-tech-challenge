@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LostCaver()
+comment0.text=\r\n\ Constructor\ for\ Objects\r\n
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Sets\ up\ and\ Runs\ User\ Interface\r\n
+comment2.params=row\ col\ dir
+comment2.target=void\ setup(int,\ int,\ java.lang.String)
+comment2.text=\r\n\ Updates\ the\ current\ coordinates\ and\ initializes\ the\ map\ data\r\n
+comment3.params=cave\ row\ col
+comment3.target=java.lang.String[][]\ initializeCave(java.lang.String[][],\ int,\ int)
+comment3.text=\r\n\ sets\ up\ the\ 2d\ array\ which\ will\ represent\ the\ map\ and\ with\ the\ lost\ caver's\ position\r\n
+comment4.params=
+comment4.target=void\ printCave()
+comment4.text=\r\n\ Prints\ a\ map\ of\ the\ cave\r\n
+comment5.params=
+comment5.target=void\ printMenu()
+comment5.text=\r\n\ Prints\ both\ the\ map\ and\ the\ lost\ caver's\ position;\ Used\ for\ user\ interaction\r\n
+comment6.params=move
+comment6.target=void\ move(java.lang.String)
+comment6.text=\r\n\ Moves\ the\ lost\ caver's\ position\r\n
+comment7.params=
+comment7.target=boolean\ checkBounds()
+comment7.text=\r\n\ Checks\ if\ the\ caver\ is\ within\ bounds\ of\ the\ map;\r\n\ Returns\ true\ if\ still\ within\ bounds;\ False\ if\ at\ the\ map's\ edge\r\n
+numComments=8
